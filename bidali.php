@@ -21,14 +21,14 @@ $mail->Host = "smtp.gmail.com";
 //indico el puerto que usa Gmail
 $mail->Port = 465;
 //indico un usuario / clave de un usuario de gmail
-$mail->Username = "migasamigasinfo@gmail.com";
-$mail->Password = "Admindaw2";
-$mail->SetFrom('migasamigasinfo@gmail.com', "$name");
+$mail->Username = "zureemaila@gmail.com";
+$mail->Password = "zurepasahitza";
+$mail->SetFrom('zureemaila@gmail.com', "$name");
 $mail->AddReplyTo("$email","$name");
 $mail->Subject = "Migas amigas bezeroaren mezua";
 $mail->MsgHTML("$message");
 //indico destinatario
-$address = "migasamigasinfo@gmail.com";
+$address = "zureemaila@gmail.com";
 $mail->AddAddress($address, "$name");
 if(!$mail->Send()) {
 return "Error al enviar: " . $mail->ErrorInfo;

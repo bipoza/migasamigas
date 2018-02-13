@@ -1,13 +1,13 @@
 
 TITLE: 
-Justice - 100% Fully Responsive Free HTML5 Bootstrap Template
+Migas Amigas okindegiaren diseinu proiektua. 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+Haritz Lopez (https://github.com/haritz95) eta Bittor Poza (https://github.com/bipoza)
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESCRIPTION:
+Diseinuko proiektua. Bertan Bootstrap, jQuery eta AJAX landu dugu. Baita ere multimedia edukia gehitu dugu.
+Proiektua ez du ezer berezirik, baino phpMailer erabileraren adibidea edukitzeko ondo dago.
 
 
 CREDITS:
