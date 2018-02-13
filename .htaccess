@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteCond %{REQUEST_URI} !^/index.php$
-RewriteCond %{REQUEST_URI} !\.(gif|jpe?g|png|css|js)$
-RewriteRule .* /index.php [L,R=302]
