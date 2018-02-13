@@ -1,26 +1,9 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+TITLE: 
+Migas Amigas okindegiaren diseinu proiektua. 
 
+AUTHOR:
+Haritz Lopez (https://github.com/haritz95) eta Bittor Poza (https://github.com/bipoza)
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+DESCRIPTION:
+Diseinuko proiektua. Bertan Bootstrap, jQuery eta AJAX landu dugu. Baita ere multimedia edukia gehitu dugu.
+Proiektua ez du ezer berezirik, baino phpMailer erabileraren adibidea edukitzeko ondo dago.
